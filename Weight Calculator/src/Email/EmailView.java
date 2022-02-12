@@ -1,12 +1,8 @@
 package Email;
 
-import Weight.WeightModel;
-
-import javax.mail.*;
-import javax.mail.internet.InternetAddress;
-import javax.mail.internet.MimeMessage;
-import javax.swing.*;
-import java.util.Properties;
+//import javax.mail.*;
+//import javax.mail.internet.InternetAddress;
+//import javax.mail.internet.MimeMessage;
 
 public class EmailView {
 /*
